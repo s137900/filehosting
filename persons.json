@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "description": "Alice is a software engineer specializing in web development and backend systems.",
+      "age": 28,
+      "isActive": true,
+      "birthdate": "1995-03-14",
+      "imageUrl": "https://raw.githubusercontent.com/s137900/filehosting/main/id1.png",
+
+      "degree": "Bachelor's Degree",
+      "hobbies": ["coding", "reading", "cycling"],
+      "addressId": 101
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "description": "Bob is a graphic designer with expertise in UI/UX design and branding.",
+      "age": 32,
+      "isActive": false,
+      "birthdate": "1991-07-22",
+      "imageUrl": "https://raw.githubusercontent.com/s137900/filehosting/main/id2.png",
+      "degree": "High School Degree",
+      "hobbies": ["painting", "gaming", "traveling"],
+      "addressId": 102
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "description": "Charlie is a data scientist who loves working with machine learning models.",
+      "age": 26,
+      "isActive": true,
+      "birthdate": "1997-11-05",
+      "imageUrl": "https://raw.githubusercontent.com/s137900/filehosting/main/id3.png",
+      "degree": "Master's Degree",
+      "hobbies": ["data analysis", "chess", "hiking"],
+      "addressId": 103
+    },
+    {
+      "id": 4,
+      "name": "Diana Prince",
+      "description": "Diana is a cybersecurity expert who ensures the safety of digital systems.",
+      "age": 30,
+      "isActive": true,
+      "birthdate": "1993-05-12",
+      "imageUrl": "https://raw.githubusercontent.com/s137900/filehosting/main/id4.png",
+      "degree": "Bachelor's Degree",
+      "hobbies": ["cybersecurity", "yoga", "photography"],
+      "addressId": 104
+    },
+    {
+      "id": 5,
+      "name": "Ethan Hunt",
+      "description": "Ethan is a mission specialist known for his problem-solving skills.",
+      "age": 35,
+      "isActive": false,
+      "birthdate": "1988-09-20",
+      "imageUrl": "https://raw.githubusercontent.com/s137900/filehosting/main/id5.png",
+      "degree": "Uneducated",
+      "hobbies": ["climbing", "diving", "strategy games"],
+      "addressId": 105
+    },
+    {
+      "id": 6,
+      "name": "Fiona Gallagher",
+      "description": "Fiona is a social worker dedicated to helping underprivileged communities.",
+      "age": 29,
+      "isActive": true,
+      "birthdate": "1994-02-18",
+      "imageUrl": "https://raw.githubusercontent.com/s137900/filehosting/main/id6.png",
+      "degree": "High School Degree",
+      "hobbies": ["volunteering", "cooking", "writing"],
+      "addressId": 106
+    },
+    {
+      "id": 7,
+      "name": "George Lucas",
+      "description": "George is a filmmaker and storyteller who creates epic cinematic experiences.",
+      "age": 40,
+      "isActive": true,
+      "birthdate": "1983-12-01",
+      "imageUrl": "https://raw.githubusercontent.com/s137900/filehosting/main/id7.png",
+      "degree": "Uneducated",
+      "hobbies": ["filmmaking", "editing", "stargazing"],
+      "addressId": 107
+    },
+    {
+      "id": 8,
+      "name": "Hannah Montana",
+      "description": "Hannah is a pop star who balances her music career with her personal life.",
+      "age": 24,
+      "isActive": false,
+      "birthdate": "1999-06-30",
+      "imageUrl": "https://raw.githubusercontent.com/s137900/filehosting/main/id8.png",
+      "degree": "High School Degree",
+      "hobbies": ["singing", "acting", "shopping"],
+      "addressId": 108
+    },
+    {
+      "id": 9,
+      "name": "Ian Malcolm",
+      "description": "Ian is a mathematician and chaos theorist who studies complex systems.",
+      "age": 45,
+      "isActive": true,
+      "birthdate": "1978-08-15",
+      "imageUrl": "https://raw.githubusercontent.com/s137900/filehosting/main/id9.png",
+      "degree": "Doctoral Degree",
+      "hobbies": ["mathematics", "lecturing", "nature walks"],
+      "addressId": 109
+    },
+    {
+      "id": 10,
+      "name": "Julia Roberts",
+      "description": "Julia is an actress known for her versatile performances in films.",
+      "age": 55,
+      "isActive": true,
+      "birthdate": "1967-10-28",
+      "imageUrl": "https://raw.githubusercontent.com/s137900/filehosting/main/id10.png",
+      "degree": "Uneducated",
+      "hobbies": ["acting", "reading scripts", "gardening"],
+      "addressId": 110
+    }
+  ]

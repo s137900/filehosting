@@ -1,0 +1,82 @@
+[
+  {
+    "id": 101,
+    "street": "456 Elm St",
+    "city": "Springfield",
+    "zipCode": "62704",
+    "isResidential": true,
+    "mapImageId": 3001
+  },
+  {
+    "id": 102,
+    "street": "789 Oak Ave",
+    "city": "Metropolis",
+    "zipCode": "12345",
+    "isResidential": false,
+    "mapImageId": 3002
+  },
+  {
+    "id": 103,
+    "street": "123 Pine Rd",
+    "city": "Gotham",
+    "zipCode": "98765",
+    "isResidential": true,
+    "mapImageId": 3003
+  },
+  {
+    "id": 104,
+    "street": "321 Birch Ln",
+    "city": "Star City",
+    "zipCode": "54321",
+    "isResidential": true,
+    "mapImageId": 3004
+  },
+  {
+    "id": 105,
+    "street": "654 Maple Dr",
+    "city": "Central City",
+    "zipCode": "67890",
+    "isResidential": false,
+    "mapImageId": 3005
+  },
+  {
+    "id": 106,
+    "street": "987 Cedar Blvd",
+    "city": "Riverdale",
+    "zipCode": "23456",
+    "isResidential": true,
+    "mapImageId": 3006
+  },
+  {
+    "id": 107,
+    "street": "345 Willow Ct",
+    "city": "Hollywood",
+    "zipCode": "34567",
+    "isResidential": true,
+    "mapImageId": 3007
+  },
+  {
+    "id": 108,
+    "street": "789 Palm Ave",
+    "city": "Malibu",
+    "zipCode": "45678",
+    "isResidential": false,
+    "mapImageId": 3008
+  },
+  {
+    "id": 109,
+    "street": "234 Redwood Rd",
+    "city": "San Francisco",
+    "zipCode": "56789",
+    "isResidential": true,
+    "mapImageId": 3009
+  },
+  {
+    "id": 110,
+    "street": "567 Sequoia Ln",
+    "city": "Los Angeles",
+    "zipCode": "67890",
+    "isResidential": true,
+    "mapImageId": 3010
+  }
+]
